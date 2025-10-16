@@ -1,0 +1,163 @@
+{"request": [
+    {
+        "id": 1,
+        "name": "Grilled Chicken",
+        "description": "Served with vegetables and rice",
+        "protein": 35,
+        "calories": 420,
+        "price": 9.99,
+        "imageURL": "dish1.jpg",
+        "carb": 30
+    },
+    {
+        "id": 2,
+        "name": "Beef Burger",
+        "description": "Juicy beef patty with cheese and lettuce",
+        "protein": 28,
+        "calories": 550,
+        "price": 8.49,
+        "imageURL": "dish2.jpg",
+        "carb": 45
+    },
+    {
+        "id": 3,
+        "name": "Caprese Salad",
+        "description": "Tomatoes, mozzarella, and basil with balsamic",
+        "protein": 7,
+        "calories": 180,
+        "price": 6.49,
+        "imageURL": "dish3.jpg",
+        "carb": 12
+    },
+    {
+        "id": 4,
+        "name": "Spaghetti Carbonara",
+        "description": "Creamy pasta with bacon and parmesan",
+        "protein": 22,
+        "calories": 610,
+        "price": 10.49,
+        "imageURL": "dish4.jpg",
+        "carb": 68
+    },
+    {
+        "id": 5,
+        "name": "Vegan Bowl",
+        "description": "Quinoa, chickpeas, avocado, and mixed greens",
+        "protein": 18,
+        "calories": 350,
+        "price": 7.99,
+        "imageURL": "dish5.jpg",
+        "carb": 40
+    },
+    {
+        "id": 6,
+        "name": "Margherita Pizza",
+        "description": "Classic pizza with tomato, mozzarella, and basil",
+        "protein": 20,
+        "calories": 700,
+        "price": 9.49,
+        "imageURL": "dish6.jpg",
+        "carb": 80
+    },
+    {
+        "id": 7,
+        "name": "Caesar Salad",
+        "description": "Romaine lettuce, croutons, and Caesar dressing",
+        "protein": 12,
+        "calories": 250,
+        "price": 6.99,
+        "imageURL": "dish7.jpg",
+        "carb": 18
+    },
+    {
+        "id": 8,
+        "name": "Tuna Sandwich",
+        "description": "Tuna salad with lettuce and tomato on whole grain bread",
+        "protein": 25,
+        "calories": 430,
+        "price": 7.49,
+        "imageURL": "dish8.jpg",
+        "carb": 35
+    },
+    {
+        "id": 9,
+        "name": "Sushi Platter",
+        "description": "Assorted sushi rolls with soy sauce and wasabi",
+        "protein": 30,
+        "calories": 500,
+        "price": 12.99,
+        "imageURL": "dish9.jpg",
+        "carb": 55
+    },
+    {
+        "id": 10,
+        "name": "Beef Steak",
+        "description": "Grilled sirloin steak with garlic butter",
+        "protein": 40,
+        "calories": 650,
+        "price": 14.49,
+        "imageURL": "dish10.jpg",
+        "carb": 8
+    },
+    {
+        "id": 11,
+        "name": "Greek Salad",
+        "description": "Feta cheese, olives, cucumber, and tomato",
+        "protein": 10,
+        "calories": 220,
+        "price": 6.29,
+        "imageURL": "dish11.jpg",
+        "carb": 15
+    },
+    {
+        "id": 12,
+        "name": "Chicken Wrap",
+        "description": "Grilled chicken with lettuce and yogurt sauce in tortilla",
+        "protein": 27,
+        "calories": 420,
+        "price": 7.79,
+        "imageURL": "dish12.jpg",
+        "carb": 36
+    },
+    {
+        "id": 13,
+        "name": "Shrimp Pasta",
+        "description": "Spaghetti with shrimp, garlic, and olive oil",
+        "protein": 24,
+        "calories": 560,
+        "price": 11.49,
+        "imageURL": "dish13.jpg",
+        "carb": 60
+    },
+    {
+        "id": 14,
+        "name": "Avocado Toast",
+        "description": "Whole grain bread with smashed avocado and egg",
+        "protein": 14,
+        "calories": 320,
+        "price": 5.99,
+        "imageURL": "dish14.jpg",
+        "carb": 28
+    },
+    {
+        "id": 15,
+        "name": "Salmon Bowl",
+        "description": "Grilled salmon with rice and vegetables",
+        "protein": 33,
+        "calories": 480,
+        "price": 10.99,
+        "imageURL": "dish15.jpg",
+        "carb": 40
+    },
+    {
+        "id": 16,
+        "name": "Pancake Stack",
+        "description": "Fluffy pancakes with maple syrup and butter",
+        "protein": 9,
+        "calories": 520,
+        "price": 5.79,
+        "imageURL": "dish16.jpg",
+        "carb": 72
+    }
+]
+}
