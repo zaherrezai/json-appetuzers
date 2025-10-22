@@ -6,7 +6,7 @@
         "protein": 35,
         "calories": 420,
         "price": 9.99,
-        "imageURL": "dish1.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Grilled%20Chicken.jpg",
         "carb": 30
     },
     {
@@ -16,7 +16,7 @@
         "protein": 28,
         "calories": 550,
         "price": 8.49,
-        "imageURL": "dish2.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Beef%20Burger.jpg",
         "carb": 45
     },
     {
@@ -26,7 +26,7 @@
         "protein": 7,
         "calories": 180,
         "price": 6.49,
-        "imageURL": "dish3.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Caprese%20Salad.jpg",
         "carb": 12
     },
     {
@@ -36,7 +36,7 @@
         "protein": 22,
         "calories": 610,
         "price": 10.49,
-        "imageURL": "dish4.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Spaghetti%20Carbonara.jpg",
         "carb": 68
     },
     {
@@ -46,7 +46,7 @@
         "protein": 18,
         "calories": 350,
         "price": 7.99,
-        "imageURL": "dish5.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Vegan%20Bowl.jpg",
         "carb": 40
     },
     {
@@ -56,7 +56,7 @@
         "protein": 20,
         "calories": 700,
         "price": 9.49,
-        "imageURL": "dish6.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Margherita%20Pizza.jpg",
         "carb": 80
     },
     {
@@ -66,7 +66,7 @@
         "protein": 12,
         "calories": 250,
         "price": 6.99,
-        "imageURL": "dish7.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Caesar%20Salad.jpg",
         "carb": 18
     },
     {
@@ -76,7 +76,7 @@
         "protein": 25,
         "calories": 430,
         "price": 7.49,
-        "imageURL": "dish8.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Tuna%20Sandwich.jpg",
         "carb": 35
     },
     {
@@ -86,7 +86,7 @@
         "protein": 30,
         "calories": 500,
         "price": 12.99,
-        "imageURL": "dish9.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Sushi%20Platter.jpg",
         "carb": 55
     },
     {
@@ -96,7 +96,7 @@
         "protein": 40,
         "calories": 650,
         "price": 14.49,
-        "imageURL": "dish10.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Beef%20Steak.jpg",
         "carb": 8
     },
     {
@@ -106,7 +106,7 @@
         "protein": 10,
         "calories": 220,
         "price": 6.29,
-        "imageURL": "dish11.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Greek%20Salad.jpg",
         "carb": 15
     },
     {
@@ -116,7 +116,7 @@
         "protein": 27,
         "calories": 420,
         "price": 7.79,
-        "imageURL": "dish12.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Chicken%20Wrap.jpg",
         "carb": 36
     },
     {
@@ -126,7 +126,7 @@
         "protein": 24,
         "calories": 560,
         "price": 11.49,
-        "imageURL": "dish13.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Shrimp%20Pasta.jpg",
         "carb": 60
     },
     {
@@ -136,7 +136,7 @@
         "protein": 14,
         "calories": 320,
         "price": 5.99,
-        "imageURL": "dish14.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Avocado%20Toast.jpg",
         "carb": 28
     },
     {
@@ -146,7 +146,7 @@
         "protein": 33,
         "calories": 480,
         "price": 10.99,
-        "imageURL": "dish15.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Salmon%20Bowl.jpg",
         "carb": 40
     },
     {
@@ -156,7 +156,7 @@
         "protein": 9,
         "calories": 520,
         "price": 5.79,
-        "imageURL": "dish16.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Pancake%20Stack.jpg",
         "carb": 72
     }
 ]
