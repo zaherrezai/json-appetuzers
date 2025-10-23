@@ -6,7 +6,7 @@
         "protein": 35,
         "calories": 420,
         "price": 9.99,
-        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Grilled%20Chicken.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/raw/main/Grilled%20Chicken.jpg",
         "carb": 30
     },
     {
@@ -16,7 +16,7 @@
         "protein": 28,
         "calories": 550,
         "price": 8.49,
-        "imageURL": "https://github.com/zaherrezai/AppetizerImages/blob/main/Beef%20Burger.jpg",
+        "imageURL": "https://github.com/zaherrezai/AppetizerImages/raw/main/Beef%20Burger.jpg",
         "carb": 45
     },
     {
